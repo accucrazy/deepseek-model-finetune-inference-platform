@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CUDA](https://img.shields.io/badge/CUDA-12.1-green.svg)](https://developer.nvidia.com/cuda-toolkit)
 
-一個用於 fine-tune 和推理 Deepseek 模型的簡單界面。
+一個用於 fine-tune 和推理 Deepseek 模型的簡單圖形化UI。
 
 [English](README_en.md) | 繁體中文
 
