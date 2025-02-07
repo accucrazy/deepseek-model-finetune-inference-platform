@@ -122,3 +122,4 @@ fine_tune_deepseek/
 ## 作者
 
 🏢 The Pocket Company by Accucrazy 肖準 
+CEO Ian Wu - 商學院社會組用Cursor搞出來的
