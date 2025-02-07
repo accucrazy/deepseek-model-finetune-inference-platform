@@ -1,0 +1,9 @@
+streamlit>=1.24.0
+transformers>=4.36.0
+datasets>=2.14.5
+accelerate>=0.25.0
+bitsandbytes>=0.41.1
+safetensors>=0.4.0
+sentencepiece>=0.1.99
+plotly>=5.18.0
+packaging>=23.2 
