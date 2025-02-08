@@ -7,7 +7,6 @@
 
 一個用於 fine-tune 和推理 Deepseek 模型的簡單圖形化UI。
 
-[English](README_en.md) | 繁體中文
 
 ## 系統需求
 
